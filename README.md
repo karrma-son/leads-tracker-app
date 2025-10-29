@@ -1,3 +1,6 @@
+![Leads-Tracker](Leads-Tracker.png)
+
+
 # Getting Started
 Install the dependencies and run the project
 ```
